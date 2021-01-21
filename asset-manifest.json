@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/iTheia.github.io/proyecto-pepe/static/js/main.c5d15476.chunk.js",
+    "main.js.map": "/iTheia.github.io/proyecto-pepe/static/js/main.c5d15476.chunk.js.map",
+    "runtime-main.js": "/iTheia.github.io/proyecto-pepe/static/js/runtime-main.ca986565.js",
+    "runtime-main.js.map": "/iTheia.github.io/proyecto-pepe/static/js/runtime-main.ca986565.js.map",
+    "static/js/2.2663b99a.chunk.js": "/iTheia.github.io/proyecto-pepe/static/js/2.2663b99a.chunk.js",
+    "static/js/2.2663b99a.chunk.js.map": "/iTheia.github.io/proyecto-pepe/static/js/2.2663b99a.chunk.js.map",
+    "index.html": "/iTheia.github.io/proyecto-pepe/index.html",
+    "static/js/2.2663b99a.chunk.js.LICENSE.txt": "/iTheia.github.io/proyecto-pepe/static/js/2.2663b99a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca986565.js",
+    "static/js/2.2663b99a.chunk.js",
+    "static/js/main.c5d15476.chunk.js"
+  ]
+}
